@@ -42,10 +42,10 @@ The main purpose of this repository is to strengthen my frontend development ski
 
 ## 👨‍💻 Author
 
-**Gunjan Kumar Sah**
+**Gunjan Kumar Sah** git
 
 Passionate Frontend Developer focused on building responsive and user-friendly web applications.
 
 ---
 
-⭐ If you like this repository, feel free to explore the projects and give it a star!
+⭐ If you like this repository, feel free to explore the projects and give it a star!  
